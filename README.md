@@ -17,9 +17,3 @@ cd target/
 java -jar pricebasket-0.0.1-SNAPSHOT.jar apples bread Soup Soup apples
 </pre>
 
-I want to say
--------------
-I designed many Java systems.Please don't do this invalid test again.Everyone is busy.
-
-
-
